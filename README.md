@@ -1,6 +1,6 @@
 # wireframe-renderer
 a 3d wireframe renderer in javascript
 
-[https://jsfiddle.net/su6hkr8a/](https://jsfiddle.net/su6hkr8a/)
+[https://jsfiddle.net/dgq3t4L5/](https://jsfiddle.net/dgq3t4L5/)
 
-Still trying to get filling triangles working.
+Got filling triangles working, but need to cause it to be 3d.
